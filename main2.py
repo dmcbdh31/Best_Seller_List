@@ -55,6 +55,10 @@ def analysis_one(book_list):
     book.number_of_reviews)
     print(f"The book with the lowest number of reviews in 2018 was {lowest_number_of_reviews.name}")
 
+# I am done with this. I give up. I am tired of working on this and I do not think this is a good fit for me.
+# It's too much for me mentally. I am missing college basketball because I want to be done and I am getting upset
+#  because I am two weeks behind and cannot keep up. I want to just quit and not do this anymore.
+
 def analysis_two(book_list):
     print("Analysis of which genre (fiction or non-fiction) has appeared the most in the top 50's list")
     books_genre = list(filter(lambda genre : genre == genre, book_list))
